@@ -6795,6 +6795,18 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "Twyla Borck\nV 1.0\n02/04/25"
+		(at 100.5 51.5 0)
+		(layer "F.SilkS")
+		(uuid "3ff56cba-44ce-4eba-ace1-4e0ef9895292")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "on off button\n"
 		(at 158 65.5 0)
 		(layer "F.SilkS")
