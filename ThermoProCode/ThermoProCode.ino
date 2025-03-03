@@ -26,7 +26,7 @@ Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, OLED_RESET);
 #define ON_OFF 2
 #define LOCK_BUTTON 3
 #define UNITS 4
-#define FLIP 5
+#define FLIP 5 //use calibration button to flip orientation of screen
 #define LIGHT 6
 
 #define LED 9
